@@ -1,0 +1,10 @@
+.header{
+    background-color: black;
+    color: aliceblue;
+}
+.header h1{
+    margin: 0em;
+    text-align: center;
+    font-size: 70px;
+    padding-bottom: 10px;
+}
